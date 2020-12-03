@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import ColorChangeButton from './ColorChangeButton';
 import './App.css';
 
-function App() {
+export default function App() {
 	const [color, setColor] = useState('');
 	return (
 		<div className={`react-root ${color}`}>
@@ -16,4 +16,4 @@ function App() {
 	);
 }
 
-export default App;
+// export default App;
