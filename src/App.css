@@ -17,9 +17,9 @@ html, body, #root, .react-root {
 button {
     padding: 16px;
     margin: 8px;
-    border: 2px solid #fff;
+    border: 1px solid #fff;
     color: #fff;
-    font-size: 20px;
+    font-size: 2rem;
 }
 
 .red {
