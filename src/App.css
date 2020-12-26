@@ -17,7 +17,7 @@ html, body, #root, .react-root {
 button {
     padding: 16px;
     margin: 8px;
-    border: 1px solid #fff;
+    border: 2px solid #fff;
     color: #fff;
     font-size: 2rem;
 }
