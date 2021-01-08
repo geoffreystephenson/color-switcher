@@ -10,6 +10,11 @@ html, body, #root, .react-root {
     place-items: center;
 }
 
+h1.lede {
+    margin-bottom: 24px;
+    color: black;
+}
+
 .centered {
     text-align: center;
 }
