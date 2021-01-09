@@ -13,6 +13,7 @@ html, body, #root, .react-root {
 h1.lede {
     margin-bottom: 24px;
     color: black;
+    padding: 0;
 }
 
 .centered {
@@ -40,4 +41,9 @@ button {
 .yellow {
     background-color: yellow;
     color: black;
+}
+
+.green {
+    background-color: green;
+    color: #fff;
 }
