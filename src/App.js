@@ -12,6 +12,7 @@ export default function App() {
 				<ColorChangeButton color="blue" setColor={setColor} />
 				<ColorChangeButton color="yellow" setColor={setColor} />
 				<ColorChangeButton color="green" setColor={setColor} />
+				<ColorChangeButton color="brown" setColor={setColor} />
 			</div>
 		</div>
 	);
