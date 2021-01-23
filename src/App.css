@@ -52,3 +52,8 @@ button {
     background-color: brown;
     color: #fff;
 }
+
+.white {
+    background-color: white;
+    color: black;
+}
