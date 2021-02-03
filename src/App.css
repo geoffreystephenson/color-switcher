@@ -48,13 +48,14 @@ button {
     color: #fff;
 }
 
-.brown {
-    background-color: brown;
-    color: #fff;
-}
-
 .white {
     background-color: white;
     color: black;
+}
+
+
+.brown {
+    background-color: brown;
+    color: #fff;
 }
 
