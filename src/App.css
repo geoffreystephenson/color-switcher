@@ -28,11 +28,6 @@ button {
     font-size: 2rem;
 }
 
-.white {
-    background-color: white;
-    color: black;
-}
-
 .red {
     background-color: red;
     color: #fff;
@@ -56,4 +51,9 @@ button {
 .brown {
     background-color: brown;
     color: #fff;
+}
+
+.white {
+    background-color: white;
+    color: black;
 }
